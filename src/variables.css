@@ -1,0 +1,19 @@
+:root {
+  --primary: #ff5638;
+  --secondary: #506dff;
+  --accent: #ff0000;
+  --background: #ffffff;
+  --text: #ffffff;
+  --border: #1d3557;
+  --grey: #cccccc;
+}
+
+.dark-theme{
+  --primary: #ff5638;
+  --secondary: #506dff;
+  --accent: #ff0000;
+  --background: #1D2B53;
+  --text: #ffffff;
+  --border: #ffffff;
+  --grey: #cecece;
+}
